@@ -1,0 +1,17 @@
+.items-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .popular {
+    padding: 20px;
+    text-align: center;
+    color: black;
+  }
+
+
+  
+
