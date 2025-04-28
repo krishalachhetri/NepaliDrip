@@ -43,3 +43,7 @@
   font-weight: bold;
   margin-bottom: 20px;
 }
+
+body {
+  overflow-x: hidden;
+}
