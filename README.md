@@ -2,12 +2,9 @@ NepaliDrip 👕🇳🇵
 🚀 Deployed Link
 👉 https://nepali-drip.vercel.app
 
-📖 Description
 NepaliDrip is a modern e-commerce web app connecting people with the beauty of traditional Nepali clothing and culture.
 Explore, add to cart, checkout (with mock payment), and enjoy a smooth shopping experience! 🌸
 
-🎥 Demo
-Coming soon!
 
 ✨ Features
 Shop by category (Men, Women, Kids)
